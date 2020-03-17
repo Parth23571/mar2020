@@ -351,3 +351,9 @@
 2020-03-15 19:21:44,998 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Satish\Automation\Selenium\15032020\frwk\src\main\resources
 2020-03-15 19:21:45,000 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-03-15 19:21:45,000 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Satish\Automation\Selenium\15032020\frwk\src\test\resources
+2020-03-17 19:53:34,652 [Worker-56: Launching Executing test in E__Satish_Automation_Selenium_15032020_frwk] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Satish\Automation\Selenium\15032020\frwk
+2020-03-17 19:53:34,652 [Worker-56: Launching Executing test in E__Satish_Automation_Selenium_15032020_frwk] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-03-17 20:01:30,776 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-17 20:01:30,776 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Satish\Automation\Selenium\15032020\frwk\src\main\resources
+2020-03-17 20:01:30,800 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-17 20:01:30,800 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Satish\Automation\Selenium\15032020\frwk\src\test\resources
