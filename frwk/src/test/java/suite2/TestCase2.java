@@ -1,5 +1,5 @@
 package suite2;
-//test 17-03-2020 // changed // Again //Later //sati //Last//1/20032020//finallys //2403202020.\\spTest
+//test 17-03-2020 // updated // Again //Later //sati //Last//1/20032020//finallys //2403202020.\\spTest
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
